@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45ea1588-5757-485b-ad5a-2828b1bb22a7" name="Changes" comment="Сделал секцию getintouch,contact и footer." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myFormatOnlyChangedLines" value="true" />
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="C:\Users\vadik\Desktop\Frontend_project\Project №1\relvise" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1/" />
+  <component name="ProjectId" id="20AsADjnoixKY1Ogn49BuWEDJD7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="PluginDummyText.Genre" value="cookery" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="format.on.save.only.changed.lines" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="C:\Users\vadik\Desktop\Frontend_project\Project №2\GoCorona" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showRenderedDocs" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vadik\Desktop\Frontend_project\Project №1\relvise\css" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="let arr = [12, 33, 25, 1, 4, 6, 7];  arr.sort ();" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/script.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\vadik\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45ea1588-5757-485b-ad5a-2828b1bb22a7" name="Changes" comment="" />
+      <created>1635498581026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635498581026</updated>
+      <workItem from="1635498582354" duration="2279000" />
+      <workItem from="1635500899420" duration="6659000" />
+      <workItem from="1635509208181" duration="1364000" />
+      <workItem from="1635510613984" duration="1067000" />
+      <workItem from="1635511708281" duration="1019000" />
+      <workItem from="1635512760029" duration="93000" />
+      <workItem from="1635512870836" duration="205000" />
+      <workItem from="1635513098530" duration="121000" />
+      <workItem from="1635513237733" duration="6901000" />
+      <workItem from="1635522187471" duration="794000" />
+      <workItem from="1635583777817" duration="4300000" />
+      <workItem from="1635593854121" duration="236000" />
+      <workItem from="1635594264450" duration="100000" />
+      <workItem from="1635594602757" duration="453000" />
+      <workItem from="1635595091404" duration="87000" />
+      <workItem from="1635600257202" duration="5018000" />
+      <workItem from="1635605383429" duration="16653000" />
+      <workItem from="1635664734176" duration="2937000" />
+      <workItem from="1635668559582" duration="3261000" />
+      <workItem from="1635671866773" duration="1691000" />
+      <workItem from="1635673590138" duration="18737000" />
+      <workItem from="1635695249543" duration="1620000" />
+      <workItem from="1635757339125" duration="1607000" />
+      <workItem from="1635759817066" duration="14035000" />
+      <workItem from="1635779220879" duration="7402000" />
+      <workItem from="1635787375946" duration="241000" />
+      <workItem from="1635787638490" duration="8299000" />
+      <workItem from="1635801634217" duration="33000" />
+      <workItem from="1635843170030" duration="1237000" />
+      <workItem from="1635844438892" duration="707000" />
+      <workItem from="1635845177144" duration="12331000" />
+      <workItem from="1635863086009" duration="5045000" />
+      <workItem from="1635868428269" duration="11033000" />
+      <workItem from="1635880609833" duration="3143000" />
+      <workItem from="1635892723949" duration="51000" />
+      <workItem from="1635927145893" duration="136000" />
+      <workItem from="1635932316595" duration="41000" />
+      <workItem from="1636019058393" duration="4727000" />
+      <workItem from="1636053379467" duration="1116000" />
+      <workItem from="1636055469774" duration="181000" />
+      <workItem from="1636055676711" duration="1336000" />
+      <workItem from="1636097608499" duration="5818000" />
+      <workItem from="1636128935215" duration="95000" />
+      <workItem from="1636302662734" duration="577000" />
+      <workItem from="1636480244803" duration="122000" />
+      <workItem from="1636480390667" duration="1433000" />
+      <workItem from="1636482049532" duration="506000" />
+      <workItem from="1636482754083" duration="464000" />
+      <workItem from="1636483284618" duration="25000" />
+      <workItem from="1636484001077" duration="37000" />
+      <workItem from="1636484071249" duration="104000" />
+      <workItem from="1636484343638" duration="109000" />
+      <workItem from="1636485827388" duration="49000" />
+      <workItem from="1636485961971" duration="2050000" />
+      <workItem from="1636569778774" duration="642000" />
+      <workItem from="1637083671402" duration="1153000" />
+      <workItem from="1644755148331" duration="778000" />
+      <workItem from="1644756019678" duration="383000" />
+      <workItem from="1644756428646" duration="38000" />
+      <workItem from="1645347870766" duration="197000" />
+      <workItem from="1645348089560" duration="9696000" />
+      <workItem from="1645358703596" duration="1476000" />
+      <workItem from="1645360431259" duration="5021000" />
+    </task>
+    <task id="LOCAL-00001" summary="Сделана шапка сайта">
+      <created>1635522380943</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635522380943</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Добавил секцию page и main.">
+      <created>1635622100473</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635622100473</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Добавил картинки, секцию page и main.">
+      <created>1635622148290</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635622148290</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Сделал две секции advantages и practice.">
+      <created>1635694900942</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635694900942</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Добавил normalize.css&#10;Сделал секцию whoweare,subscribe и блок clients.">
+      <created>1635795205356</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635795205356</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Сделал секцию getintouch,contact и footer.">
+      <created>1635883336731</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1635883336731</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Сделана шапка сайта" />
+    <MESSAGE value="Добавил секцию page и main." />
+    <MESSAGE value="Добавил картинки, секцию page и main." />
+    <MESSAGE value="Сделал две секции advantages и practice." />
+    <MESSAGE value="Добавил normalize.css&#10;Сделал секцию whoweare,subscribe и блок clients." />
+    <MESSAGE value="Сделал секцию getintouch,contact и footer." />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал секцию getintouch,contact и footer." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
