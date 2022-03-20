@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45ea1588-5757-485b-ad5a-2828b1bb22a7" name="Changes" comment="Сделал секцию getintouch,contact и footer." />
+    <list default="true" id="45ea1588-5757-485b-ad5a-2828b1bb22a7" name="Changes" comment="gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,8 +27,25 @@
     </option>
   </component>
   <component name="FormatOnSaveOptions">
-    <option name="myFormatOnlyChangedLines" value="true" />
     <option name="myRunOnSave" value="true" />
+    <option name="myAllFileTypesSelected" value="false" />
+    <option name="mySelectedFileTypes">
+      <set>
+        <option value="CSS" />
+        <option value="HTML" />
+        <option value="JSON" />
+        <option value="JavaScript" />
+        <option value="Less" />
+        <option value="RNG Compact" />
+        <option value="SCSS" />
+        <option value="Sass" />
+        <option value="Shell Script" />
+        <option value="TypeScript" />
+        <option value="Vue.js" />
+        <option value="XHTML" />
+        <option value="XML" />
+      </set>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,8 +58,15 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="PhpWebServerValidation" path_to_validation_script="C:\Users\vadik\Desktop\Frontend_project\Project №1\relvise" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1/" />
   <component name="ProjectId" id="20AsADjnoixKY1Ogn49BuWEDJD7" />
@@ -57,8 +86,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="code.cleanup.on.save" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="format.on.save.only.changed.lines" value="true" />
+    <property name="full.screen.before.presentation.mode" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -70,7 +101,9 @@
     <property name="node.js.selected.package.stylelint" value="C:\Users\vadik\Desktop\Frontend_project\Project №2\GoCorona" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="rearrange.code.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.16583748" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReaderModeSettings">
@@ -169,7 +202,20 @@
       <workItem from="1645347870766" duration="197000" />
       <workItem from="1645348089560" duration="9696000" />
       <workItem from="1645358703596" duration="1476000" />
-      <workItem from="1645360431259" duration="5021000" />
+      <workItem from="1645360431259" duration="5418000" />
+      <workItem from="1645603223019" duration="396000" />
+      <workItem from="1645603664177" duration="620000" />
+      <workItem from="1645604324932" duration="2860000" />
+      <workItem from="1646159995324" duration="25000" />
+      <workItem from="1646571193131" duration="1233000" />
+      <workItem from="1646735954154" duration="1303000" />
+      <workItem from="1646840968818" duration="3648000" />
+      <workItem from="1647066943768" duration="28000" />
+      <workItem from="1647066994520" duration="9187000" />
+      <workItem from="1647162868413" duration="2896000" />
+      <workItem from="1647170382002" duration="352000" />
+      <workItem from="1647764260935" duration="32000" />
+      <workItem from="1647764349130" duration="8219000" />
     </task>
     <task id="LOCAL-00001" summary="Сделана шапка сайта">
       <created>1635522380943</created>
@@ -213,7 +259,21 @@
       <option name="project" value="LOCAL" />
       <updated>1635883336731</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Сделал секцию header + 50% adaptive.">
+      <created>1645367880532</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645367880532</updated>
+    </task>
+    <task id="LOCAL-00008" summary="gitignore">
+      <created>1645367970726</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1645367970726</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +298,9 @@
     <MESSAGE value="Сделал две секции advantages и practice." />
     <MESSAGE value="Добавил normalize.css&#10;Сделал секцию whoweare,subscribe и блок clients." />
     <MESSAGE value="Сделал секцию getintouch,contact и footer." />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделал секцию getintouch,contact и footer." />
+    <MESSAGE value="Сделал секцию header + 50% adaptive." />
+    <MESSAGE value="gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
