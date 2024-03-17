@@ -1,0 +1,11 @@
+.header__button {
+	flex: 0 0 252px;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.button {
+}
+
+.button_blue {
+}
