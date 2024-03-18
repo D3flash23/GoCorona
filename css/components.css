@@ -1,11 +1,65 @@
 .header__button {
-	flex: 0 0 252px;
+	flex: 0 0 252px; /* Ширина кнопки */
 	display: flex;
 	justify-content: flex-end;
+	align-items: center; /* Вертикальное выравнивание,добавдение из за burger menu */
 }
 
 .button {
+	display: inline-block; /* Строчно-блочный элемент т.к ссылка - строчная */
+	text-transform: uppercase;
+	font-family: Raleway;
+	color: var(--color-btn);
+	padding: 14px 30px; /* Внутренние отступы создающие кнопку */
+	background-color: var(--background-color-btn);
+	border-radius: var(--border-5);
+	font-size: 10px;
+	font-weight: 800;
+	line-height: 12px;
+	letter-spacing: 0.14em;
+	transition: background-color 0.3s ease 0s;
+}
+
+.button:hover {
+	background-color: var(--background-color-btn__hover);
 }
 
 .button_blue {
+	background-color: var(--background-color-btn__blue);
+}
+.button_blue:hover {
+	background-color: var(--background-color-btn__blue__hover);
+}
+
+/* Burger menu */
+.icon-menu {
+	display: none;
+}
+
+@media (max-width: 767.98px) {
+	.icon-menu {
+		display: flex;
+		position: relative;
+		flex: 0 0 30px;
+		height: 18px;
+
+		flex-direction: column;
+		justify-content: space-between;
+		margin: 0px 0px 0px 20px; /* Отступ слева */
+	}
+
+	.icon-menu::after,
+	.icon-menu::before {
+		content: "";
+		background-color: var(--color-primary);
+		height: 2px;
+	}
+
+	.icon-menu span {
+		height: 2px;
+		background-color: var(--color-primary);
+	}
+
+	.icon-menu {
+	}
 }

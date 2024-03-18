@@ -1,5 +1,12 @@
 :root {
 	--color-text: #616161;
+	--color-primary: #000;
+	--color-btn: #fcfdfe;
+	--background-color-btn: #ec5863;
+	--background-color-btn__hover: #4bd173;
+	--background-color-btn__blue: #4285f4;
+	--background-color-btn__blue__hover: #780fa1;
+	--border-5: 5px;
 }
 /* Изначальные данные,кроме значения ширины */
 /* Обнуление */
@@ -51,18 +58,39 @@ body {
 }
 
 .wrapper {
-	overflow: hidden;
+	overflow: hidden; /* Скрывает вложенные элементы при размещении на странице */
 	display: flex;
 	flex-direction: column;
 	min-height: 100%;
 }
 
 [class*="__container"] {
-	max-width: 1057px;
-	margin: 0 auto;
+	max-width: 1087px; /* Максимальная ширина контейнера */
+	margin: 0 auto; /* Центрирование контейнера */
+	padding: 0 15px; /* Отступы безопастности,поэтому ширина контейра становится 1087px */
 }
 
 main {
 	flex: 1 1 auto; /* Для расширения и прижатия footer к низу страницы */
 }
 /* _____________________________________________ */
+
+/* PC */
+@media (max-width: 1087px) {
+	[class*="__container"] {
+		max-width: 970px;
+	}
+}
+/* Tablet */
+@media (max-width: 991.98px) {
+	[class*="__container"] {
+		max-width: 750px;
+	} /* Максимальная ширина контейнера */
+}
+
+/* Phone */
+@media (max-width: 767.98px) {
+	[class*="__container"] {
+		max-width: none;
+	}
+}
