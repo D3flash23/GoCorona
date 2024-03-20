@@ -37,12 +37,12 @@
 }
 
 @media (max-width: 767.98px) {
+	.close-icon-menu,
 	.icon-menu {
 		display: flex;
 		position: relative;
 		flex: 0 0 30px;
 		height: 18px;
-
 		flex-direction: column;
 		justify-content: space-between;
 		margin: 0px 0px 0px 20px; /* Отступ слева */
@@ -60,6 +60,22 @@
 		background-color: var(--color-primary);
 	}
 
-	.icon-menu {
+	/* Закрытие бургер меню */
+	.close-icon-menu::before,
+	.close-icon-menu::after {
+		content: "";
+
+		background-color: var(--color-primary);
+		height: 2px;
+		top: 50%;
+		left: 50%;
+	}
+
+	.close-icon-menu::before {
+		transform: translate(-15%, -50%) rotate(45deg);
+	}
+
+	.close-icon-menu::after {
+		transform: translate(-20%, -50%) rotate(-45deg);
 	}
 }

@@ -1,7 +1,10 @@
 :root {
 	--color-text: #616161;
+	--color-text__primary: #48c516e0;
 	--color-primary: #000;
+	--color-link__hover: #e2aa0e;
 	--color-btn: #fcfdfe;
+	--background-color: #97343b;
 	--background-color-btn: #ec5863;
 	--background-color-btn__hover: #4bd173;
 	--background-color-btn__blue: #4285f4;
@@ -88,9 +91,12 @@ main {
 	} /* Максимальная ширина контейнера */
 }
 
-/* Phone */
+/* mobile */
 @media (max-width: 767.98px) {
 	[class*="__container"] {
 		max-width: none;
 	}
+}
+/* mobile small */
+@media (max-width: 479.98px) {
 }
