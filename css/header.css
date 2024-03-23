@@ -61,23 +61,37 @@
 	} /* Отступы между пунктами меню */
 
 	.header__button {
-		flex: 0 0 170px;
+		flex: 0 0 200px;
 	} /* Ширина кнопки при адаптиве */
 }
 
 @media (max-width: 767.98px) {
 	.menu__body {
 		position: fixed;
+		overflow: auto; /* Автопрокрутка */
 		top: 0;
 		left: -100%;
 		width: 100%;
 		height: 100%;
 		background-color: var(--background-color);
 		padding: 90px 15px 30px 15px;
-		transition: left 0.3s ease 0s;
+		/* transition: left 0.3s ease 0s; */
 	}
-	.menu__body:target {
+
+	.header:target .menu__body {
 		left: 0;
+	}
+
+	/* Прокладка для скрытия текста */
+	.header:target .menu__body::before {
+		content: "";
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 70px;
+		background-color: var(--background-color);
+		z-index: 2;
 	}
 
 	.menu__list {
@@ -100,9 +114,11 @@
 	}
 }
 
+/* Убираем лого при адаптиве */
 @media (max-width: 479.98px) {
 	.header__logo {
 		flex: 0 0 40px;
 		overflow: hidden;
-	} /* Убираем лого при адаптиве */
+		margin: 0 20px 0 0;
+	}
 }
