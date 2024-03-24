@@ -1,3 +1,4 @@
+/* ======================= header ================================ */
 .header {
 	position: absolute; /* Абсолютный позиционирование */
 	width: 100%;
@@ -21,6 +22,7 @@
 	flex: 1 1 auto; /* Ширина меню */
 }
 
+/* ======================= menu ================================ */
 .menu {
 	display: flex;
 	justify-content: flex-end;
@@ -51,6 +53,7 @@
 	transition: color 0.3s ease 0s;
 }
 
+/* ======================= adaptiv ================================ */
 @media (max-width: 991.98px) {
 	.header__container {
 		min-height: 80px;
